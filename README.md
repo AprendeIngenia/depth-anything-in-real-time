@@ -13,7 +13,7 @@ Para utilizar este código, asegúrese de cumplir con los siguientes requisitos 
 
 - Sistema operativo compatible: Windows, Linux o macOS
 - Versión de Python: 3.8
-- Paquetes adicionales: NumPy, OpenCV, Matplotlib, etc. Consulte el archivo [requirements.txt](https://github.com/AprendeIngenia/depth-anything-in-real-time/blob/c18a72444a61f1845f576c9740621a8bcb002cd1/requirements.txt) para ver la lista completa de dependencias.
+- Paquetes adicionales: NumPy, OpenCV, Onnxruntime, etc. Consulte el archivo [requirements.txt](https://github.com/AprendeIngenia/depth-anything-in-real-time/blob/c18a72444a61f1845f576c9740621a8bcb002cd1/requirements.txt) para ver la lista completa de dependencias.
 
 ### Contacto
 Si tiene preguntas o consultas relacionadas con este proyecto, no dude en contactarnos en nuestro canal de Youtube [Aprende e Ingenia](https://www.youtube.com/@AprendeIngenia/videos). Le responderemos tan pronto como nos sea posible.
